@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ FluxKnight / Phantom_404
+# ⚔️ FluxKnight / V01d_404
 
 ### Student Developer from Mongolia  
 **AI Engineering • Backend Systems • Defensive Cybersecurity • C++ / Python • Hackathon Builder**
@@ -23,7 +23,7 @@
 ## 🧭 Mission Profile
 
 ```txt
-codename     :: FluxKnight / Phantom_404
+codename     :: FluxKnight / V01d_404
 team         :: NOtFound_404
 location     :: Mongolia
 mode         :: prototype fast, explain clearly, improve through testing
